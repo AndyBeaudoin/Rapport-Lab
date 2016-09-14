@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if test -f $1  #Test si le parametre recu est un fichier
+then
+    echo "\n $1 est un fichier"
+else
+    echo "\n $1 nest pas un fichier"
+fi
