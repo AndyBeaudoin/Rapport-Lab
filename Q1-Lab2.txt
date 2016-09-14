@@ -1,0 +1,7 @@
+Q1 : Quelle ligne de commande permet de modifier votre environnement 
+    de travail pour que vos scripts s’exécutent dans le répertoire actif 
+    lorsque vous écrivez le nom du script?
+Rep: ./
+
+
+
